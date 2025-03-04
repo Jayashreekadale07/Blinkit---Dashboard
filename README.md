@@ -9,3 +9,6 @@ Tech Stack
 
     Power BI: Used for data visualization and dashboard creation.
     Excel / SQL: Data processing and transformation (if applicable).
+
+
+![Dashobard]("C:\Users\Jayashree Kadale\Pictures\Screenshots\Blinkit.png")
