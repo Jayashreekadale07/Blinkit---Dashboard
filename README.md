@@ -11,5 +11,5 @@ Tech Stack
     Excel / SQL: Data processing and transformation (if applicable).
 
 
-![Dashboard](images/Blinkit.png)
+![Dashboard](https://github.com/Jayashreekadale07/Blinkit---Dashboard/blob/main/Blinkit.png?raw=true)
 
