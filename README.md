@@ -11,4 +11,5 @@ Tech Stack
     Excel / SQL: Data processing and transformation (if applicable).
 
 
-![Dashobard]("C:\Users\Jayashree Kadale\Pictures\Screenshots\Blinkit.png")
+![Dashboard](images/Blinkit.png)
+
